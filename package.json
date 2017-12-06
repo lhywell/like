@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "fonten",
+    "frontend",
     "everyday",
     "read"
   ],
@@ -18,5 +18,9 @@
     "cheerio": "^1.0.0-rc.2",
     "ejs": "^2.5.7",
     "express": "^4.16.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/lhywell/like/issues"
+  },
+  "homepage": "https://github.com/lhywell/like"
 }
