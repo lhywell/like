@@ -1,6 +1,6 @@
 {
   "name": "lihuiyin-like",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "frontend favorite/前端每日必读",
   "main": "index.js",
   "scripts": {
