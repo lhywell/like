@@ -1,0 +1,29 @@
+{
+  "name": "lihuiyin-like",
+  "description": "frontend favorite/前端每日必读",
+  "main": "index.js",
+  "authors": [
+    "lihuiyin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "frontend",
+    "everyday",
+    "read"
+  ],
+  "homepage": "https://github.com/lhywell/like",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^0.22.0",
+    "ejs": "^1.0.0",
+    "express": "^4.16.2"
+  }
+}
